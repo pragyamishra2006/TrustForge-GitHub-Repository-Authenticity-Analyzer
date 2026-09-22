@@ -38,49 +38,38 @@ TrustForge provides analytical signals to assist human review. It does not claim
 
 ──────────────────────────────────────────────────────────────────────
 
-🤖 AI-Assisted Analysis
+## 🤖 AI-Assisted Analysis
 
 TrustForge uses AI-assisted analysis to transform repository information into understandable insights.
-
 The goal is to make complex repository information easier to interpret without requiring users to manually inspect every file.
 
 ──────────────────────────────────────────────────────────────────────
 
-🛡️ Authenticity Signals
+## 🛡️ Authenticity Signals
 
-TrustForge analyzes repository-level and code-level signals that may indicate:
-
-Potentially reused code
-
-Similar code patterns
-
-Unusual repository structures
-
-Areas requiring deeper investigation
-
+- TrustForge analyzes repository-level and code-level signals that may indicate:
+- Potentially reused code
+- Similar code patterns
+- Unusual repository structures
+- Areas requiring deeper investigation
 These signals are intended to support human review rather than replace it.
 
 ──────────────────────────────────────────────────────────────────────
 
-📊 Trust Report
+## 📊 Trust Report
 
 Instead of presenting raw repository data, TrustForge organizes the analysis into a structured report containing:
 
-Repository overview
-
-Technology information
-
-Codebase insights
-
-Similarity/reuse indicators
-
-AI-generated observations
-
-Trust-related signals
+- Repository overview
+- Technology information
+- Codebase insights
+- Similarity/reuse indicators
+- AI-generated observations
+- Trust-related signals
 
 ──────────────────────────────────────────────────────────────────────
 
-⚡ Developer-Friendly Interface
+## ⚡ Developer-Friendly Interface
 
 TrustForge provides a clean and responsive interface designed to make repository analysis simple.
 
@@ -110,7 +99,7 @@ Explainable Report
 
 ──────────────────────────────────────────────────────────────────────
 
-🏗️ System Architecture
+## 🏗️ System Architecture
 
                   ┌─────────────────────┐
 
@@ -172,7 +161,7 @@ Explainable Report
 
 ──────────────────────────────────────────────────────────────────────
 
-🧠 How It Works
+## 🧠 How It Works
 
 1. User provides a GitHub repository URL
 
@@ -198,51 +187,32 @@ Explainable Report
 
 ──────────────────────────────────────────────────────────────────────
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Frontend
-
 React
-
 TypeScript
-
 Vite
-
 Tailwind CSS
-
 Component-based architecture
-
 APIs & Repository Integration
-
 GitHub API
-
 REST APIs
-
 Repository metadata processing
-
 AI / Intelligence
-
 Large Language Models (LLMs)
-
 AI-assisted code analysis
-
 Pattern analysis
-
 Similarity analysis
-
 Development Tools
-
 Git
-
 GitHub
-
 VS Code
-
 npm
 
 ──────────────────────────────────────────────────────────────────────
 
-📂 Project Structure
+## 📂 Project Structure
 
 trustforge/
 
@@ -300,7 +270,7 @@ trustforge/
 
 ──────────────────────────────────────────────────────────────────────
 
-⚙️ Getting Started
+## ⚙️ Getting Started
 
 Prerequisites
 
@@ -356,7 +326,7 @@ Never commit API keys, tokens, passwords, or other secrets to GitHub.
 
 ──────────────────────────────────────────────────────────────────────
 
-📊 Example Workflow
+## 📊 Example Workflow
 
 Input
 
@@ -408,7 +378,7 @@ Trust Report
 
 ──────────────────────────────────────────────────────────────────────
 
-🎯 Use Cases
+## 🎯 Use Cases
 
 👨‍💻 Developers
 
@@ -432,7 +402,7 @@ Gain structured insights when reviewing technical projects and developer portfol
 
 ──────────────────────────────────────────────────────────────────────
 
-🔮 Future Roadmap
+## 🔮 Future Roadmap
 
 TrustForge is designed to evolve into a broader developer trust and code intelligence platform.
 
@@ -466,7 +436,7 @@ Planned Features
 
 ──────────────────────────────────────────────────────────────────────
 
-🧪 Engineering Principles
+## 🧪 Engineering Principles
 
 TrustForge is built with a focus on:
 
@@ -490,7 +460,7 @@ The project is designed as a foundation that can be extended into a production-g
 
 ──────────────────────────────────────────────────────────────────────
 
-🔒 Security
+## 🔒 Security
 
 TrustForge follows basic security principles:
 
@@ -506,7 +476,7 @@ TrustForge assists technical review; it does not provide legal or definitive aut
 
 ──────────────────────────────────────────────────────────────────────
 
-🌟 Why TrustForge?
+## 🌟 Why TrustForge?
 
 Software development is increasingly influenced by:
 
@@ -528,7 +498,7 @@ TrustForge explores how AI and automated code intelligence can make repository a
 
 ──────────────────────────────────────────────────────────────────────
 
-🚀 Vision
+## 🚀 Vision
 
 **Build a developer intelligence layer that helps people understand, evaluate, and trust software repositories.**
 
@@ -536,7 +506,7 @@ TrustForge aims to move repository analysis from manual inspection toward intell
 
 ──────────────────────────────────────────────────────────────────────
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Pragya Mishra
 
@@ -548,23 +518,7 @@ GitHub:
 
 https://github.com/pragyamishra2006
 
-LinkedIn:  
 
-https://www.linkedin.com/
-
-──────────────────────────────────────────────────────────────────────
-
-📜 License
-
-This project is intended for educational and research purposes.
-
-See the `LICENSE` file for additional details.
-
-──────────────────────────────────────────────────────────────────────
-
-<p align="center">
-
-🔐 TrustForge
 
 Analyze. Understand. Trust.
 
