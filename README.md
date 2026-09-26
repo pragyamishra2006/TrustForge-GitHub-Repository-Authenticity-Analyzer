@@ -517,9 +517,3 @@ Pranveer Singh Institute of Technology
 GitHub:  
 
 https://github.com/pragyamishra2006
-
-
-
-Analyze. Understand. Trust.
-
-</p>
